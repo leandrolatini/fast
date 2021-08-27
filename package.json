@@ -17,7 +17,8 @@
       "sites/site-utilities",
       "sites/fast-tooling-examples",
       "sites/fast-website",
-      "sites/website"
+      "sites/website",
+      "examples/ssr"
     ],
     "nohoist": [
       "**/@types/chai",
