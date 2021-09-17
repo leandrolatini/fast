@@ -47,7 +47,7 @@ export const menuItemStyles: (
       justify-items: center;
       align-items: center;
       padding: 0;
-      margin: 0 calc(${designUnit} * 1px);
+      margin: 0 calc((${designUnit} * 3) * 1px);
       white-space: nowrap;
       color: ${neutralForegroundRest};
       fill: currentcolor;
